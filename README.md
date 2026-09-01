@@ -79,13 +79,3 @@ The detector module showed unstable behaviour during the measurements, so a reli
 **Research area:** Experimental Particle Physics & Detector Instrumentation
 
 **Supervisor:** Dr. Anand Kumar Dubey
-
-## Repository Structure
-
-```text
-VECC-summer-internship/
-├── README.md
-├── code/
-│   └── analysis/
-└── results/
-    └── figures/
