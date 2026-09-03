@@ -62,6 +62,14 @@ The digitized hit rate and average cluster size were also studied as functions o
 
 The detector module showed unstable behaviour during the measurements, so a reliable linear detector response with X-ray current could not be established from the available dataset.
 
+## Selected Figures
+
+### GEM Detector Mapping
+
+Detector pad geometry and channel-to-pad mapping visualization for the Triple-GEM detector.
+
+![GEM Detector Mapping](results/figures/GEM_Mapping_18FEB.png)
+
 ## Tools & Technologies
 
 - ROOT
