@@ -16,7 +16,7 @@ The experimental studies included:
 
 - Electrical quality assessment of GEM foils through leakage-current measurements
 - High-voltage divider characterization
-- X-ray source linearity studies
+- X-ray response studies
 - Triple-GEM detector response measurements
 - Cluster-charge measurements
 - Spatial response studies
@@ -39,6 +39,9 @@ The reconstruction chain included:
 - Occupancy and timing studies
 - Validation of reconstructed detector data
 
+## Analysis Workflow
+
+The ROOT/C++ analysis codes process the detector data by decoding the binary files, mapping electronics channels to detector pads, reconstructing timestamps, converting ADC values to charge, and identifying detector clusters. Example analysis figures are provided in results/figures/.
 ## Simulation Studies
 
 CBMROOT simulation data were studied to become familiar with the MuCh detector geometry, addressing scheme, detector response, and ROOT-based data structures.
